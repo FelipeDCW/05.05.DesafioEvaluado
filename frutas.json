@@ -1,0 +1,25 @@
+{"frutas" : [{
+    "nombre": "banana",
+    "imagen": "banana.png"
+},
+{
+    "nombre": "cebollas",
+    "imagen": "cebollas.png"
+},
+{
+    "nombre": "lechuga",
+    "imagen": "lechuga.png"
+},
+{
+    "nombre": "papas",
+    "imagen": "papas.png"
+},
+{
+    "nombre": "pimenton",
+    "imagen": "pimenton.png"
+},
+{
+    "nombre": "tomate",
+    "imagen": "tomate.png"
+}
+]}
